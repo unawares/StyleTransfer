@@ -14,7 +14,7 @@ chardet==3.0.4
 colorama==0.4.1
 crayons==0.2.0
 crypto==1.4.1
-cryptography==2.7
+cryptography==3.2
 cryptosteganography==0.2.1
 cycler==0.10.0
 decorator==4.4.0

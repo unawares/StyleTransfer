@@ -125,7 +125,7 @@ tqdm==4.36.1
 traitlets==4.3.2
 transliterate==1.10.2
 Unidecode==1.1.1
-urllib3==1.25.6
+urllib3==1.25.8
 voc==0.1.6
 wafw00f==1.0.0
 watermark==2.0.1
